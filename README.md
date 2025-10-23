@@ -3,12 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-This repository hosts the interactive dashboard **“Politicization of AI in Dutch Party Programs (2023–2025)”**, expanding upon the findings from:
-
-> **Morosoli, S., Kieslich, K., Reséndez, V., & van Drunen, M. (2025).**  
-> *AI governance in the spotlight: an empirical analysis of Dutch political parties’ strategies for the 2023 elections.*  
-> *Journal of Information Technology & Politics.* https://doi.org/10.1080/19331681.2025.2504519  
-
 This repository hosts a dashboard analyzing how related terms to **Artificial Intelligence (AI)** are discussed in **Dutch political party manifestos** between **2023 and 2025**, highlighting shifts in **the prominance and the type of discussions**.
 
 It builds on the study by **Morosoli et al. (2025)** and extends it with:
@@ -36,3 +30,5 @@ It builds on the study by **Morosoli et al. (2025)** and extends it with:
 - **Word counts:** Used to normalize AI salience per 10,000 words.
 
 ## Citation
+> **Morosoli, S., Kieslich, K., Reséndez, V., & van Drunen, M. (2025).**  
+> *AI governance in the spotlight: an empirical analysis of Dutch political parties’ strategies for the 2023 elections.*Journal of Information Technology & Politics.* https://doi.org/10.1080/19331681.2025.2504519  
